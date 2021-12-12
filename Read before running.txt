@@ -1,0 +1,8 @@
+If you want to fully run the notebook, please take note of the following:
+
+1. Download the gazetteer file using these steps, as the file is 600mb:
+	1. login to Outlook with QMul credentials.
+	2. Download the file via this link:
+	https://qmulprod-my.sharepoint.com/:u:/r/personal/ec21071_qmul_ac_uk/Documents/NLP/Assignment%201/Gazettes/IMDB%20Name%20DB.tsv?csf=1&web=1&e=krdRin
+	3. Put the downloaded tsv file in the "Gazettes" folder
+2.Some of the procedures in the notebook take several hours. I've saved pickle files for those parts in case you want to skip them. Just be sure to uncomment the code parts where the pickles are read.
